@@ -1,0 +1,11 @@
+sort1 uses: BUBBLE SORT
+
+How do you know?: It takes more time compared to sort3 in best(sorted) case.
+
+sort2 uses: MERGE SORT
+
+How do you know?: It takes approx. same time for best (sorted) & worst (reversed) scenario
+
+sort3 uses: SELECTION SORT
+
+How do you know?: It takes lesser time compared to sort1 in best(sorted) case.
